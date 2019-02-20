@@ -13,12 +13,8 @@ import com.example.getextra_and_putextra.SerializableObject.UserS;
 
 import java.util.ArrayList;
 
-/*Transfer_Data_Betwee_ Activities
-Transfer Data (String,Object ,Array Of Object)
-between Activities using:
-Android Serializable
-Android Parcelable
- *
+/*
+ *Transfer_Data_Between_Transfer_Data_BetwTransfer_Data_Between_Activities_Parcelable_Serializable
  * Please note that serialization can cause performance issues: it takes time,
  * and a lot of objects will be allocated (and thus, have to be garbage collected)
  * */
